@@ -1,6 +1,13 @@
 <h2 align="center">Statistics</h2>
 <p align="center">
-  <img src="https://github-readme-stats-sqikerzs-projects.vercel.app/api?username=sqikerz&theme=dark&show_icons=true" alt="My GitHub Stats"/>
+  <picture>
+    <source
+      srcset="https://github-stats-extended-sqikerz.vercel.app/api?username=sqikerz&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <!-- light mode -->
+    <img src="https://github-stats-extended-sqikerz.vercel.app/api?username=sqikerz&show_icons=true" />
+  </picture>
 </p>
 
 <!--
