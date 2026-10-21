@@ -2,11 +2,11 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://github-stats-extended-sqikerz.vercel.app/api?username=sqikerz&show_icons=true&theme=dark"
+      srcset="https://github-stats-extended-sqikerz.vercel.app/api?username=ispikers&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <!-- light mode -->
-    <img src="https://github-stats-extended-sqikerz.vercel.app/api?username=sqikerz&show_icons=true" />
+    <img src="https://github-stats-extended-sqikerz.vercel.app/api?username=ispikers&show_icons=true" />
   </picture>
 </p>
 
